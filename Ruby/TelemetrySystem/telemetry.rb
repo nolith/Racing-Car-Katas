@@ -1,4 +1,4 @@
-require './client'
+require_relative './client'
 
 class TelemetryDiagnostics
   attr_reader :diagnostic_info
